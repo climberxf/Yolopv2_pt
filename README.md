@@ -1,6 +1,7 @@
 
 <div align="center">
 <h1> YOLOPv2:rocket:: Better, Faster, Stronger for Panoptic driving Perception </h1>
+  <h2>参考CAIC-AD 注意：需要先下载pt模型文件!!!!</h2>
 <!-- <--!span><font size="5", > Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer
 </font></span> -->
 
